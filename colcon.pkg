@@ -1,0 +1,8 @@
+{
+  "name": "ndt_map_py",
+  "dependencies": {
+    "pybind11",
+    "ndt_map"
+  },
+  "hooks": []
+}
